@@ -1,1 +1,2 @@
-# Terraform-MDIXAI-Toronto
+# Terraform-MDIXAI-POC
+Terraform-MDIXAI-POC
